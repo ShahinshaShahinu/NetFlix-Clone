@@ -1,0 +1,64 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 58px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+   
+}
+
+
+.logo{
+
+    position: fixed;
+    left: 20px;
+    width: 100px;
+    
+}
+
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+
+}
+
+.logo_avtar{
+    display: flex;
+    align-items: center;
+}
+.NavPages{
+    left: 10rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.Home{
+    color: #ffffff;
+    left: 2rem;
+    position: relative;
+    /* padding: 0.6rem; */
+}
+.TvShow{
+    color: #ffffff;
+    left: 3rem;
+    position: relative;
+}
+.Movies{
+    color: #ffffff;
+    left: 4rem;
+    position: relative;
+}
+.Recent_all{
+    color: #ffffff;
+    left: 5rem;
+    position: relative;
+}
+.TvShow{
+    color: #ffffff;
+    left: 3rem;
+    position: relative;
+}
